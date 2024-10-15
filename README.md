@@ -31,11 +31,8 @@ Existing segmentation models often focus on specific object characteristics (e.g
 2. **Navigate to the project directory:**
 
   ```bash
-  cd BASNET-MODEL-FOR-SOTA-SEGMENTATION
+   cd BASNET-MODEL-FOR-SOTA-SEGMENTATION
 
-3. **Navigate to the project directory:**
-    ```bash
-    pip install -r requirements.txt
 
 ##🗂️ Dataset
 ##📊 DUTS-TR Dataset:
